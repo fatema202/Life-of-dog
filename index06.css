@@ -1,0 +1,78 @@
+body{
+    margin : 10px;
+    background-color: darkturquoise;
+    
+}
+
+.head{
+  text-align: center;
+    font-size: 30px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: black;
+}
+.box1{
+    height:400px;
+    width:350px;
+    background-color: rgb(237, 8, 180) ;
+    margin:100px 10px 10px 10px ;
+    padding:5px -5px -5px 5px;
+    text-align: center;
+    float: left;
+    font-size: 30px;
+    color: crimson;
+    font-family: Comic Sans;
+}
+.box2{
+    height:400px;
+    width:350px;
+    background-color:rgb(248, 11, 229);
+    margin:10px 10px 10px 10px;
+    float: left;
+    text-align: center;
+    float: left;
+    font-size: 30px;
+    color: crimson;
+    font-family: Comic Sans;
+
+}.box3{
+    height:400px;
+    width:350px;
+    background-color: rgb(235, 10, 255);
+    margin:10px 10px 10px 10px ;
+    float: left;
+    text-align: center;
+    float: left;
+    font-size: 30px;
+    color: crimson;
+    font-family: Comic Sans;
+}
+.box4{
+    height:400px;
+    width:350px;
+    background-color: rgb(254, 7, 184);
+    margin:100px 10px 10px 10px;
+    float: left;
+    text-align: center;
+    float: left;
+    font-size: 30px;
+    color: crimson;
+    font-family: Comic Sans;
+
+}
+.box5{
+    height:500px;
+    width:500px;
+    background-color:darkturquoise;
+    margin:10px 10px 10px 480px;
+    float: left;
+
+}
+.box6{
+    height:200px;
+    width:1200px;
+    background-color:rgb(40, 234, 234);
+    margin:10px 100px 10px 100px;
+    float: left;
+    overflow-y: scroll;
+    font-size: 20px ;
+}
